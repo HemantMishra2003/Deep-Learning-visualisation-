@@ -1,1 +1,1 @@
-all important concept of deep learning which i have studied so  far .
+All important concept of Deep learning which i have studied so  far .
